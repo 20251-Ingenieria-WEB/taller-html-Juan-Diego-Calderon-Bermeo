@@ -32,4 +32,4 @@ La interfaz es intuitiva y está optimizada para funcionar correctamente en dife
 1. Clona o descarga el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/pokedex-interactiva.git
+https://github.com/20251-Ingenieria-WEB/taller-html-Juan-Diego-Calderon-Bermeo.git
