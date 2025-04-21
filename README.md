@@ -1,4 +1,4 @@
-# taller-html-Juan-Diego-Calderon-Bermeo<br>
+# taller-html-Juan-Diego-Calderon-Bermeo
 
 # Pokédex Interactiva
 
@@ -27,19 +27,10 @@ La interfaz es intuitiva y está optimizada para funcionar correctamente en dife
 
 ---
 
-## 🚀 Instrucciones de uso
-
-1. Clona o descarga el repositorio:
-
-```bash
-https://github.com/20251-Ingenieria-WEB/taller-html-Juan-Diego-Calderon-Bermeo.git
-
----
-
 ## 💡 Consideraciones técnicas
 
 - La aplicación utiliza `fetch API` para realizar llamadas HTTP a la PokéAPI.
-- Se implementan filtros por múltiples criterios mediante `inputs` y `selects` dinámicos.
+- Se implementan filtros por múltiples criterios mediante `input` y `select` dinámicos.
 - El diseño está adaptado para pantallas pequeñas mediante `media queries`.
 
 ---
@@ -48,7 +39,15 @@ https://github.com/20251-Ingenieria-WEB/taller-html-Juan-Diego-Calderon-Bermeo.g
 
 El diseño ha sido desarrollado con **Flexbox** y **Media Queries**, permitiendo una correcta visualización en:
 
-- Equipos de escritorio
-- Tablets
+- Equipos de escritorio  
+- Tablets  
 - Dispositivos móviles
+
+## 🚀 Instrucciones de uso
+
+1. Clona o descarga el repositorio:
+
+```bash
+git clone https://github.com/20251-Ingenieria-WEB/taller-html-Juan-Diego-Calderon-Bermeo.git
+
 
