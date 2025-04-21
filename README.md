@@ -33,3 +33,23 @@ La interfaz es intuitiva y está optimizada para funcionar correctamente en dife
 
 ```bash
 https://github.com/20251-Ingenieria-WEB/taller-html-Juan-Diego-Calderon-Bermeo.git
+
+
+---
+
+## 💡 Consideraciones técnicas
+
+- La aplicación utiliza `fetch API` para realizar llamadas HTTP a la PokéAPI.
+- Se implementan filtros por múltiples criterios mediante `inputs` y `selects` dinámicos.
+- El diseño está adaptado para pantallas pequeñas mediante `media queries`.
+
+---
+
+## 📱 Diseño adaptable (responsive)
+
+El diseño ha sido desarrollado con **Flexbox** y **Media Queries**, permitiendo una correcta visualización en:
+
+- Equipos de escritorio
+- Tablets
+- Dispositivos móviles
+
