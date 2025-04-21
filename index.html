@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pokédex Interactiva</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="header">
+    <h1 class="tituloPokemon">🔎 Pokédex Interactiva</h1>
+  </div> 
+
+  <div class="search-box">
+    <input type="text" id="pokemonInput" placeholder="Escribe el nombre o ID">
+    <div id="suggestions"></div>
+    <button onclick="buscarPokemon()">Buscar</button>
+  </div>
+
+  <h2>Filtros adicionales</h2>
+  <div class="filters">
+    <select id="typeFilter">
+      <option value="">--Selecciona un tipo--</option>
+    </select>      
+    <input type="text" id="abilityFilter" placeholder="Habilidad (ej: static)">
+    <select id="statFilter">
+      <option value="">--Estadística--</option>
+      <option value="hp">HP</option>
+      <option value="attack">Ataque</option>
+      <option value="defense">Defensa</option>
+      <option value="speed">Velocidad</option>
+    </select>
+    <input type="number" id="statValueFilter" placeholder="Valor mínimo">
+  </div>
+
+  <div id="pokemonInfo"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
