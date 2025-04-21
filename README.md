@@ -34,6 +34,7 @@ La interfaz es intuitiva y está optimizada para funcionar correctamente en dife
 ```bash
 https://github.com/20251-Ingenieria-WEB/taller-html-Juan-Diego-Calderon-Bermeo.git
 
+---
 
 ## 💡 Consideraciones técnicas
 
